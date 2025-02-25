@@ -1,0 +1,9 @@
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/intrinsics_gen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/omp_gen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/acc_gen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/ARMTargetParserTableGen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/BasicBlockCountPass.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/edit_cache.dir
+/home/tianchi/Workspace/LLVM/exercises/MyPasses/SimplePass/build/CMakeFiles/rebuild_cache.dir

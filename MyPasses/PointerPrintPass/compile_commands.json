@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/build",
+  "command": "/usr/bin/c++ -Dpass_EXPORTS -I/usr/lib/llvm-19/include -fPIC -Wall -Wextra -Werror=return-type -Wimplicit-fallthrough -Wno-unused-parameter -Wno-unused-variable -ggdb -fPIC -fno-rtti -O2 -o CMakeFiles/pass.dir/MyPass.cpp.o -c /home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/MyPass.cpp",
+  "file": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/MyPass.cpp"
+}
+]

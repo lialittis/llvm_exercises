@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/build",
+  "command": "/usr/bin/c++ -DFunctionPointerPass_EXPORTS -I/usr/lib/llvm-19/include -g -g -O0 -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionPointerPass.dir/MyPass.cpp.o -c /home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/MyPass.cpp",
+  "file": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/MyPass.cpp"
+},
+{
+  "directory": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/build",
+  "command": "/usr/bin/c++ -DFunctionCallerTrackerPass_EXPORTS -I/usr/lib/llvm-19/include -g -g -O0 -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionCallerTrackerPass.dir/FunctionCallerTracker.cpp.o -c /home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/FunctionCallerTracker.cpp",
+  "file": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/FunctionCallerTracker.cpp"
+},
+{
+  "directory": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/build",
+  "command": "/usr/bin/c++ -DFunctionLevelPass_EXPORTS -I/usr/lib/llvm-19/include -g -g -O0 -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionLevelPass.dir/FunctionLevelPass.cpp.o -c /home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/FunctionLevelPass.cpp",
+  "file": "/home/tianchi/Workspace/LLVM/exercises/MyPasses/PointerPrintPass/FunctionLevelPass.cpp"
+}
+]
